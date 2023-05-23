@@ -15,7 +15,7 @@ $(function(){
 
 pokemon.map((i)=>{
     var caixa = $('.box')
-    caixa.html(`
+    caixa.append(`
       <div  class="container">
         <div class="topo">
             <div class="icons space"> <box-icon color="#fff" name='chevron-left'></box-icon> <box-icon color="#fff" name='heart'></box-icon> </div>
