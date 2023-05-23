@@ -1,7 +1,7 @@
 $(function(){
     const pokemon = 
 [
-//   {name:'Bulbasaur', num:'#001', btn01:'Grass', btn02:'Poiser', img:'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png', height:'0.7m', weight:'6.9Kg', category: 'Seed', abilities:'Overgrow'},
+  {name:'Bulbasaur', num:'#001', btn01:'Grass', btn02:'Poiser', img:'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png', height:'0.7m', weight:'6.9Kg', category: 'Seed', abilities:'Overgrow'},
   {name:'Ivysaurr', num:'#002', btn01:'Grass', btn02:'Poiser', img:'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png', height:'1.0m', weight:'13.0Kg', category: 'Seed', abilities:'Overgrow'},
   {name:'Venusaur', num:'#003', btn01:'Grass', btn02:'Poiser', img:'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png', height:'2.0m', weight:'100.0Kg', category: 'Seed', abilities:'Overgrow'},
   {name:'Chamander', num:'#004', btn01:'fire', btn02:'', img:'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png', link:''},
@@ -9,7 +9,7 @@ $(function(){
   {name:'Charizard', num:'#006', btn01:'fire', btn02:'', img:'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png', link:''},
   {name:'Squirtle', num:'#007', btn01:'Grass', btn02:'Poiser', img:'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png', link:''},
   {name:'Wartortle', num:'#008', btn01:'Grass', btn02:'Poiser', img:'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png', link:''},
-  {name:'Bulbasaur', num:'#001', btn01:'Grass', btn02:'Poiser', img:'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png', height:'0.7m', weight:'6.9Kg', category: 'Seed', abilities:'Overgrow'},
+  
 ]
 
 
